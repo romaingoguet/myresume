@@ -4,5 +4,4 @@ C'est mon CV en français.
 
 --
 
-This is my resume in french.
-
+This is my resume in **french**.
